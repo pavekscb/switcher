@@ -19,7 +19,7 @@
 
 ### Вариант 1: Запуск готового EXE-файла (Рекомендовано)
 
-1.  Скачайте архив с последней версией программы со страницы [Releases](https://github.com/ваш_логин/ваш_репозиторий/releases).
+1.  Скачайте архив с последней версией программы со страницы [Releases]((https://github.com/pavekscb/switcher/releases).
 2.  Распакуйте архив в удобное для вас место (например, `C:\SimpleSwitcher`).
 3.  Запустите файл **`main.exe`**.
 4.  Программа появится в системном трее (возле часов).
@@ -32,7 +32,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/ваш_логин/ваш_репозиторий.git](https://github.com/ваш_логин/ваш_репозиторий.git)
+    git clone [[https://github.com/pavekscb/switcher.git](https://github.com//pavekscb/switcher.git)
     cd simple-switcher
     ```
 
@@ -93,4 +93,3 @@
 
 ---
 
-**Лицензия:** [Укажите вашу лицензию, например MIT]
