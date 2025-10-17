@@ -23,7 +23,7 @@ except Exception:
 
 
 ICON_PATH = os.path.join(os.path.dirname(__file__), "icon.png") 
-GITHUB_URL = "https://github.com/ваш_логин/ваш_репозиторий" 
+GITHUB_URL = "https://github.com/pavekscb/switcher.git" 
 
 
 def open_about_window(icon, item):
